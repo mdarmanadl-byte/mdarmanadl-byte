@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 Delhi IIT pass out  
-Full Stack Engineer • Backend Heavy • ML • DSA • Analytics  
+Full Stack Engineer • Backend and Frontend • ML • DSA • Analytics  
 
 ---
 
