@@ -16,37 +16,33 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 Delhi IIT pass out  
-Full Stack Engineer • ML Enthusiast • DSA Problem Solver • Data Analyst  
+Full Stack Engineer • Backend Heavy • ML • DSA • Analytics  
 
 ---
 
 ## 🚀 Expertise
 
 ### 💻 Full Stack Development
-- End-to-end development of scalable web applications
-- Frontend, backend, database & deployment ownership
-- RESTful APIs, authentication & authorization
-- Cloud-native applications with Docker & CI/CD
-- SQL & NoSQL database design and optimization
-- System design fundamentals (scalability, reliability)
+- Build end-to-end scalable web applications
+- Strong backend-first architecture mindset
+- REST APIs, GraphQL & real-time systems
+- Authentication, authorization & security
+- Cloud-native deployment with Docker & CI/CD
+- SQL & NoSQL database design & optimization
 
----
+**Frontend**
+- Next.js (App Router)
+- React.js
+- Redux / Redux Toolkit
+- Tailwind CSS
+- Responsive & performance-focused UI
 
-### 🤖 Machine Learning & AI
-- Complete ML lifecycle: data → model → deployment
-- Feature engineering & hyperparameter tuning
-- Classical ML & deep learning models
-- Model evaluation, tracking & monitoring
-- ML pipelines & basic MLOps practices
-
----
-
-### 📊 Data Analyst / Analytics
-- Data cleaning, transformation & visualization
-- Strong statistical & analytical foundation
-- SQL-driven analytics & reporting
-- KPI tracking & business insights
-- Dashboarding & trend analysis
+**Backend**
+- Node.js
+- Express.js
+- API design & versioning
+- Background jobs & queues
+- Caching & performance tuning
 
 ---
 
@@ -65,30 +61,50 @@ Full Stack Engineer • ML Enthusiast • DSA Problem Solver • Data Analyst
 
 ---
 
+### 🤖 Machine Learning & AI
+- End-to-end ML pipelines
+- Feature engineering & model tuning
+- Classical ML & deep learning
+- Model evaluation & deployment
+- Analytics & ML workflows
+
+---
+
+### 📊 Data Analyst / Analytics
+- Data cleaning & transformation
+- SQL-heavy analytics
+- KPI dashboards & insights
+- Business-driven analysis
+
+---
+
 ### 🛠️ Engineering Mindset
 - Clean, maintainable & scalable code
 - Design patterns & best practices
 - Debugging-first approach
-- Performance & edge-case focused development
+- Performance & edge-case focused
 
 ---
 
 ### 🎯 Interests
-- Large-scale System Design
-- Backend & Infrastructure Engineering
-- Machine Learning at scale
-- High-performance distributed systems
+- System Design & Scalability
+- Backend & Infrastructure
+- High-performance web apps
+- ML systems in production
 
 ---
 
 ## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
