@@ -25,7 +25,7 @@ Full Stack Engineer • Backend and Frontend • ML • DSA • Analytics
 ### 💻 Full Stack Development
 - Build end-to-end scalable web applications
 - Strong backend-first architecture mindset
-- REST APIs, GraphQL & real-time systems
+- REST APIs, PostgreSQL & real-time systems
 - Authentication, authorization & security
 - Cloud-native deployment with Docker & CI/CD
 - SQL & NoSQL database design & optimization
