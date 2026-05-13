@@ -129,7 +129,7 @@ Food ordering and delivery platform with modern UI and backend integration.
 Tech: React, Node.js, Database Integration
 
 🔗 https://fooddelivery1-two.vercel.app
-![HandToHand Preview](Fooddelivery.png)
+![Fooddelivery Preview](fooddelivery.png)
 
 ## 🌱 Currently Learning
 - System Design
