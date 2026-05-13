@@ -102,6 +102,7 @@ Peer-to-peer platform focused on seamless user interaction and scalable backend 
 Tech: React, Node.js, PostgreSQL, Tailwind, JWT Auth
 
 🔗 https://handtohand-pi.vercel.app
+![HandToHand Preview](handtohand.png)
 
 ---
 
@@ -110,6 +111,7 @@ Student-focused platform for collaboration and academic support.
 Tech: MERN Stack, REST APIs, Authentication
 
 🔗 https://studentsathi-pi.vercel.app
+![Studentsathi Preview](studentsathi.png)
 
 ---
 
@@ -118,6 +120,7 @@ Location/community-based web application with responsive UI and real-time featur
 Tech: React, Express.js, MongoDB
 
 🔗 https://aas-pass.vercel.app
+![AasPass Preview](AasPass.png)
 
 ---
 
@@ -126,6 +129,7 @@ Food ordering and delivery platform with modern UI and backend integration.
 Tech: React, Node.js, Database Integration
 
 🔗 https://fooddelivery1-two.vercel.app
+![HandToHand Preview](Fooddelivery.png)
 
 ## 🌱 Currently Learning
 - System Design
