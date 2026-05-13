@@ -61,12 +61,14 @@ Full Stack Engineer • Backend and Frontend • ML • DSA • Analytics
 
 ---
 
-### 🤖 Machine Learning & AI
-- End-to-end ML pipelines
-- Feature engineering & model tuning
-- Classical ML & deep learning
-- Model evaluation & deployment
-- Analytics & ML workflows
+### 🤖 AI Engineering & LLM Systems
+- RAG pipelines with vector databases
+- Embeddings, semantic search & retrieval systems
+- AI agents & workflow orchestration (ADK/LangGraph)
+- Prompt engineering & context management
+- LLM integrations using OpenAI, Claude & open-source models
+- Streaming AI responses & real-time chat systems
+- Evaluation, caching & inference optimization
 
 ---
 
