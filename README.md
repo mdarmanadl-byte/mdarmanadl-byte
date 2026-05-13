@@ -102,8 +102,15 @@ Peer-to-peer platform focused on seamless user interaction and scalable backend 
 Tech: React, Node.js, PostgreSQL, Tailwind, JWT Auth
 
 🔗 https://handtohand-pi.vercel.app
-![HandToHand Preview](handtohand.png)
+![HandToHand Preview](HandToHand.png)
+---
 
+#### Aas-Pass
+Location/community-based web application with responsive UI and real-time features.
+Tech: React, Express.js, MongoDB
+
+🔗 https://aas-pass.vercel.app
+![AasPass Preview](AasPass.png)
 ---
 
 #### StudentSathi
@@ -113,14 +120,7 @@ Tech: MERN Stack, REST APIs, Authentication
 🔗 https://studentsathi-pi.vercel.app
 ![Studentsathi Preview](studentsathi.png)
 
----
 
-#### Aas-Pass
-Location/community-based web application with responsive UI and real-time features.
-Tech: React, Express.js, MongoDB
-
-🔗 https://aas-pass.vercel.app
-![AasPass Preview](AasPass.png)
 
 ---
 
