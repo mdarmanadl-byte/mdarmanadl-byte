@@ -95,6 +95,43 @@ Full Stack Engineer • Backend and Frontend • ML • DSA • Analytics
 - ML systems in production
 
 ---
+### 🚀 Projects
+
+#### HandToHand
+Peer-to-peer platform focused on seamless user interaction and scalable backend architecture.
+Tech: React, Node.js, PostgreSQL, Tailwind, JWT Auth
+
+🔗 https://handtohand-pi.vercel.app
+
+---
+
+#### StudentSathi
+Student-focused platform for collaboration and academic support.
+Tech: MERN Stack, REST APIs, Authentication
+
+🔗 https://studentsathi-pi.vercel.app
+
+---
+
+#### Aas-Pass
+Location/community-based web application with responsive UI and real-time features.
+Tech: React, Express.js, MongoDB
+
+🔗 https://aas-pass.vercel.app
+
+---
+
+#### FoodDelivery
+Food ordering and delivery platform with modern UI and backend integration.
+Tech: React, Node.js, Database Integration
+
+🔗 https://fooddelivery1-two.vercel.app
+
+## 🌱 Currently Learning
+- System Design
+- Distributed Systems
+- AI Agent Workflows
+- Kubernetes & Cloud Infrastructure
 
 ## 💻 Tech Stack:
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
